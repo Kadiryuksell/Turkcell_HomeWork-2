@@ -81,7 +81,7 @@ sup {
 }
 
 .ins-card-price {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: bold;
 }
 .ins-card-content {
@@ -223,6 +223,14 @@ i:hover {
   color: white;
 }
 
-.ins-card-footer-price-GNC p:nth-child(3) {
-  color: #6c7781;
+.ins-price-offer{
+  color: #6c7781 !important;
+}
+
+.price-line-through{
+  text-decoration: line-through;
+}
+
+.ins-card-green{
+  background-color: green;
 }
